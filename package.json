@@ -2,12 +2,14 @@
   "name": "nodejs_express_azure",
   "version": "1.0.0",
   "description": "this is demo ",
+  "main": "app.js",
   "dependencies": {
     "express": "^4.17.1"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node app.js"
+    "test": "echo \"No test specified\"",
+    "start":"node app.js"
   },
   "author": "",
   "license": "ISC"
