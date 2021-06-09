@@ -7,7 +7,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node aap.js"
+    "test": "node app.js"
   },
   "author": "",
   "license": "ISC"
