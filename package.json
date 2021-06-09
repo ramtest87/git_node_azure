@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node app"
+    "test": "mocha"
   },
   "author": "",
   "license": "ISC"
